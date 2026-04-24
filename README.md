@@ -34,6 +34,15 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 
 > Step 4: Deploy com Github Pages: só permite a publicação do App se todos os steps anteriores estiverem ok.
 
+  Ao final as métricas de segurança foram alcançadas:
+  
+  Gerenciador de Tarefas - PRODUÇÃO
+  Status do Sistema: Conectado ao Banco de Dados
+
+    Tarefas
+      Implementar a pipeline de segurança
+      Corrigir as vulnerabilidades do projeto
+      Fazer o deploy em produção
 
 ## URL de Produção
 > https://estelitacarneiro.github.io/projeto-devsecops-desafio/
